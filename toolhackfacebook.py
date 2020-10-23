@@ -52,7 +52,7 @@ elif fbwha == '2':
      os.system("rm -rf /sdcard/Hackfacebook.apk")
      os.system("cp Hackfacebook.apk /sdcard")
      os.system("clear")
-     print("Done install app hack in /sdcard/Hackwhatsapp.apk")
+     print("Done install app hack in /sdcard/Hackfacebook.apk")
      time.sleep(5)
      os.system("clear")
      print("Do install Hackfacebook on your device to hack accounts facebook year 2010 ")
